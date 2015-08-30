@@ -6,6 +6,4 @@ Hi, I'm Hitesh Mahajan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I graduat
 
 If you would like to get in touch with me, whether it be for tech support, to build ideas, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:hiteshmahajan27@gmail.com">hiteshmahajan27@gmail.com</a>
 
-<p>Follow me on</p>
-
 <p>And if you haven't already, be sure to check out my tech publication <a href="http://www.geekstarts.info">http://www.geekstarts.info</a> and upcoming startup <a href="https://geekstarts.com">https://geekstarts.com</a>.</p>
