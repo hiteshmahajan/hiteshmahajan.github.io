@@ -1,7 +1,7 @@
 <span id="a">hitesh@mahajan</span>:<span id="b">~</span><span id="c">$</span> cat hiteshmahajan.txt<br/><br/>
 <p>Hi, I'm Hitesh Mahajan.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I graduated from Mumbai University as BE in Computer Science.</p>
-<p>Currently working at <a href="http://www.pepperfry.com">PepperFry</a> as DevOps Lead Engineer.
+<p>Currently working at <a href="https://www.snapdeal.com/">SnapDeal</a> as DevOps.
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>Co-founder of <a href="http://geekstarts.herokuapp.com">GeekStartS</a></p> 
 <p>Traveller and a curious mind to explore new places, adventurous and a movie buff.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
