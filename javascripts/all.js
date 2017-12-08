@@ -1,1 +1,0 @@
-particlesJS.load("particles-js","/javascripts/vendor/particlesjs-config.json",function(){});
