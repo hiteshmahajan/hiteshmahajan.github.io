@@ -1,6 +1,7 @@
-<span id="a">hitesh@mahajan</span>:<span id="b">~</span><span id="c">$</span> cat hiteshmahajan.txt<br/><br/>
-<p>Hey, It's me what my domain say Hitesh Mahajan.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>BE Computer Science Graduate.</p>
+<span id="a">Hitesh-MBP$</span>:<span id="b">~</span><span id="c">$</span> yum install lol<br/><br/>
+<p>Setting up Install Process</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>No package lol available.
+Error: Nothing to do lol</p>
 <p>Currently working at <a href="https://www.snapdeal.com/">SnapDeal</a> as DevOps.
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>Coming up with <a href="http://geekstarts.herokuapp.com">GeekStartS</a></p> 
