@@ -2,7 +2,12 @@
 <p>Setting up Install Process
 No package lol available.
 Error: Nothing to do lol</p>
-<p>Currently working at <a href="https://www.snapdeal.com/">SnapDeal</a> as DevOps.
+
+$.getJSON("https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&callback=", function(a) {
+  $("body").append(a[0].content + "<p>&mdash; " + a[0].title + "</p>")
+});
+
+<p> check this out <a href="https://www.snapdeal.com/">SnapDeal</a> as DevOps.
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>Coming up with <a href="http://geekstarts.herokuapp.com">GeekStartS</a></p> 
 <p>Traveller and a curious mind to explore new places, adventurous and a movie buff.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
